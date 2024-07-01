@@ -1,13 +1,5 @@
-body {
-  background-color: rgb(220, 127, 127);
-}
-img {
-  height: 24rem;
-  width: 24rem;
-}
-h1,
-h2,
-h4 {
-  text-transform: capitalize;
-  font-size: xx-large;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
